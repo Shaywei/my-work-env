@@ -1,0 +1,7 @@
+[user]
+	email = shay@spotify.com
+	name = Shay Weiss
+[pull]
+	rebase = true
+[push]
+	default = current
